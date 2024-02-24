@@ -1,0 +1,3 @@
+C:/Users/Janeth/CLionProjects/EjercicioPareja/cmake-build-debug/CMakeFiles/EjercicioPareja.dir
+C:/Users/Janeth/CLionProjects/EjercicioPareja/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Janeth/CLionProjects/EjercicioPareja/cmake-build-debug/CMakeFiles/rebuild_cache.dir
